@@ -10,5 +10,7 @@ public class OCBTrigger {
        //Here you should take storenumber as input 
     	
     	// Business Object
+    	
+    	// Send an email using Java Mail ApI
     }
 }
